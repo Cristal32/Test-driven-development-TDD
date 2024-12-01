@@ -1,0 +1,61 @@
+# Target directory
+/target/
+
+# Maven-specific files
+.mvn/
+.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# VS Code files
+.vscode/
+
+# NetBeans files
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Test-specific files
+test-output/
+surefire-reports/
+
+# JetBrains user-specific settings
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/libraries/
+
+# MacOS file metadata
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Maven wrapper properties
+!mvnw
+!mvnw.cmd
+!/.mvn/wrapper/maven-wrapper.properties
